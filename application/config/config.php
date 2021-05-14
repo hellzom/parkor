@@ -23,7 +23,7 @@ date_default_timezone_set('Asia/Kolkata');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://proj.rishirajaman.me/vpms/';
+$config['base_url'] = 'http://projects.rishiraj.codes/parkor/';
 
 /*
 |--------------------------------------------------------------------------
